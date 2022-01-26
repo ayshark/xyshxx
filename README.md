@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xyshxx
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any beginner project with a fellow newbie
 - 📫 How to reach me ...
 
 <!---
